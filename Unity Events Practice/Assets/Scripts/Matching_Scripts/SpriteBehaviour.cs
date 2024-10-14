@@ -13,10 +13,12 @@ public class SpriteBehaviour : MonoBehaviour
     {
         objRenderer = GetComponent<MeshRenderer>();
         objMaterial = objRenderer.material;
+        Debug.Log("material acquired:" + objMaterial);
     }
 
     public void ChangeRendererColor(ColorID colorID)
     {
+        WaitForSeconds wait = new WaitForSeconds(0.1f);
         if (colorID != null)
         {
             objMaterial.color = colorID.value;
