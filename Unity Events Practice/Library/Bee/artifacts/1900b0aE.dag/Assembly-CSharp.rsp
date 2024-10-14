@@ -362,6 +362,12 @@
 "Assets/Scripts/EnemyAttack.cs"
 "Assets/Scripts/HealEffects.cs"
 "Assets/Scripts/Health.cs"
+"Assets/Scripts/Matching_Scripts/ColorID.cs"
+"Assets/Scripts/Matching_Scripts/ID.cs"
+"Assets/Scripts/Matching_Scripts/IDContainerBehaviour.cs"
+"Assets/Scripts/Matching_Scripts/IntData.cs"
+"Assets/Scripts/Matching_Scripts/MatchBehaviour.cs"
+"Assets/Scripts/Matching_Scripts/SpriteBehaviour.cs"
 "Assets/Scripts/SizeButton.cs"
 -langversion:9.0
 /deterministic
