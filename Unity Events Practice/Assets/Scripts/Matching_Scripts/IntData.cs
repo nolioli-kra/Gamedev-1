@@ -8,12 +8,12 @@ public class IntData : ScriptableObject
     public void UpdateValue(int num)
     {
         intValue += num;
-        Debug.Log("score is currently: " + intValue);
+        //Debug.Log("score is currently: " + intValue);
     }
 
     public void ResetValue(int num)
     {
         intValue = num;
-        Debug.Log("score reset");
+        //Debug.Log("score reset");
     }
 }

@@ -13,7 +13,7 @@ public class SpriteBehaviour : MonoBehaviour
     {
         objRenderer = GetComponent<MeshRenderer>();
         objMaterial = objRenderer.material;
-        Debug.Log("material acquired:" + objMaterial);
+        //Debug.Log("material acquired:" + objMaterial);
     }
 
     public void ChangeRendererColor(ColorID colorID)
@@ -22,7 +22,7 @@ public class SpriteBehaviour : MonoBehaviour
         if (colorID != null)
         {
             objMaterial.color = colorID.value;
-            Debug.Log("color applied");
+            //Debug.Log("color applied");
         }
     }
 }

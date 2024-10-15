@@ -30,6 +30,6 @@ public class DraggableBehaviour : MonoBehaviour
     {
         draggable = false;
         endDragged.Invoke();
-        Debug.Log("Drag stop attempt");
+        //Debug.Log("Drag stop attempt");
     }
 }

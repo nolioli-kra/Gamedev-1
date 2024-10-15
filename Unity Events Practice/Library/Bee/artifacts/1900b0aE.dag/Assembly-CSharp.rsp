@@ -364,11 +364,13 @@
 "Assets/Scripts/Health.cs"
 "Assets/Scripts/Matching_Scripts/ColorID.cs"
 "Assets/Scripts/Matching_Scripts/DraggableBehaviour.cs"
+"Assets/Scripts/Matching_Scripts/FloatData.cs"
 "Assets/Scripts/Matching_Scripts/ID.cs"
 "Assets/Scripts/Matching_Scripts/IDContainerBehaviour.cs"
 "Assets/Scripts/Matching_Scripts/IntData.cs"
 "Assets/Scripts/Matching_Scripts/MatchBehaviour.cs"
 "Assets/Scripts/Matching_Scripts/SpriteBehaviour.cs"
+"Assets/Scripts/Matching_Scripts/TextLabelBehavior.cs"
 "Assets/Scripts/SizeButton.cs"
 -langversion:9.0
 /deterministic
