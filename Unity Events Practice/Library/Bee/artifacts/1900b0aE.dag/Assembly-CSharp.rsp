@@ -371,6 +371,7 @@
 "Assets/Scripts/Matching_Scripts/MatchBehaviour.cs"
 "Assets/Scripts/Matching_Scripts/SpriteBehaviour.cs"
 "Assets/Scripts/Matching_Scripts/TextLabelBehavior.cs"
+"Assets/Scripts/Matching_Scripts/TransformBehaviour.cs"
 "Assets/Scripts/SizeButton.cs"
 -langversion:9.0
 /deterministic
