@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 7924329480472938930}
   - component: {fileID: 7180249984186412919}
   - component: {fileID: 4774326123115995891}
+  - component: {fileID: 1244631373269616996}
   - component: {fileID: 803015342680088823}
   - component: {fileID: 6173644278344578431}
   m_Layer: 0
@@ -150,7 +151,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7344f4e73e2a2b4284755ab6172e7eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idObject: {fileID: 11400000, guid: aa18d824095d547498b9a2762398f7fc, type: 2}
+  idObject: {fileID: 0}
   matchedEvent:
     m_PersistentCalls:
       m_Calls:
@@ -166,25 +167,25 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 7180249984186412919}
-        m_TargetAssemblyTypeName: SpriteBehaviour, Assembly-CSharp
-        m_MethodName: ChangeRendererColor
+      - m_Target: {fileID: 11400000, guid: fc00b1d8e3487d84882382a8b501f85f, type: 2}
+        m_TargetAssemblyTypeName: Instancer, Assembly-CSharp
+        m_MethodName: CreateInstance
         m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 11400000, guid: aa18d824095d547498b9a2762398f7fc, type: 2}
-          m_ObjectArgumentAssemblyTypeName: ColorID, Assembly-CSharp
+          m_ObjectArgument: {fileID: 11400000, guid: 6e754356807dd6346bc221bfea67a40f, type: 2}
+          m_ObjectArgumentAssemblyTypeName: Vector3Data, Assembly-CSharp
           m_IntArgument: 10
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: TextLabelBehavior, Assembly-CSharp
-        m_MethodName: UpdateLabel
-        m_Mode: 2
+      - m_Target: {fileID: 1244631373269616996}
+        m_TargetAssemblyTypeName: DestroyBehavior, Assembly-CSharp
+        m_MethodName: Destroy
+        m_Mode: 1
         m_Arguments:
-          m_ObjectArgument: {fileID: 11400000, guid: 4d3baf67c943ca440ba9f607d870da78, type: 2}
-          m_ObjectArgumentAssemblyTypeName: IntData, Assembly-CSharp
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 10
           m_FloatArgument: 0
           m_StringArgument: 
@@ -205,21 +206,45 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: TextLabelBehavior, Assembly-CSharp
-        m_MethodName: UpdateLabel
-        m_Mode: 2
+  onAwake:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 4774326123115995891}
+        m_TargetAssemblyTypeName: DraggableBehaviour, Assembly-CSharp
+        m_MethodName: GetCamera
+        m_Mode: 1
         m_Arguments:
-          m_ObjectArgument: {fileID: 11400000, guid: 4d3baf67c943ca440ba9f607d870da78, type: 2}
-          m_ObjectArgumentAssemblyTypeName: IntData, Assembly-CSharp
-          m_IntArgument: -10
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  onAwake:
-    m_PersistentCalls:
-      m_Calls: []
+      - m_Target: {fileID: 11400000, guid: 07ae7fad640b77d4497529fcc7283cb3, type: 2}
+        m_TargetAssemblyTypeName: ColorIDDataList, Assembly-CSharp
+        m_MethodName: SetCurrentColorRandomly
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 7180249984186412919}
+        m_TargetAssemblyTypeName: SpriteBehaviour, Assembly-CSharp
+        m_MethodName: StartDelayedChange
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 11400000, guid: 07ae7fad640b77d4497529fcc7283cb3, type: 2}
+          m_ObjectArgumentAssemblyTypeName: ColorIDDataList, Assembly-CSharp
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   noMatchDelayedEvent:
     m_PersistentCalls:
       m_Calls: []
@@ -236,6 +261,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   objMaterial: {fileID: 0}
+  delay: 0.1
+  currentColorID: {fileID: 0}
+  onColorIDChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  matchBehaviour: {fileID: 7924329480472938930}
 --- !u!114 &4774326123115995891
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -317,6 +348,19 @@ MonoBehaviour:
   cameraObject: {fileID: 0}
   draggable: 0
   position: {x: 0, y: 0}
+--- !u!114 &1244631373269616996
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1014967067155786645}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9a51c4f5a426b24f8190f8d6714a0c7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  seconds: 0.05
 --- !u!95 &803015342680088823
 Animator:
   serializedVersion: 5

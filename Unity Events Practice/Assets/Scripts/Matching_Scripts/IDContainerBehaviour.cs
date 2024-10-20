@@ -2,10 +2,10 @@ using UnityEngine;
 
 public class IDContainerBehaviour : MonoBehaviour
 {
-    public ID idObject;
+    public ColorID idObject;
 
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log(idObject);
+        //Debug.Log(idObject);
     }
 }

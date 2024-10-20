@@ -4,12 +4,17 @@ using UnityEngine.Events;
 
 public class MatchBehaviour : MonoBehaviour
 {
-    public ID idObject;
+    public ColorID idObject;
     public UnityEvent matchedEvent, noMatchedEvent, onAwake, noMatchDelayedEvent;
 
     private void Start()
     {
         onAwake.Invoke();
+    }
+
+    public void OnColorReceived(ColorID colorID)
+    {
+        idObject = colorID;
     }
 
     private IEnumerator OnTriggerEnter(Collider other)
@@ -26,14 +31,14 @@ public class MatchBehaviour : MonoBehaviour
             if (otherID == idObject)
             {
                 matchedEvent.Invoke();
-                //Debug.Log("Matched!");
+                Debug.Log("Matched!");
             }
             else
             {
                 noMatchedEvent.Invoke();
                 yield return new WaitForSeconds(0.5f);
                 noMatchDelayedEvent.Invoke();
-                //Debug.Log("No Match");
+                Debug.Log("No Match");
             }
         }
     }

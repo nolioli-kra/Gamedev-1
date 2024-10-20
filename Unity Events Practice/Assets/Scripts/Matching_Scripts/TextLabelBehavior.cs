@@ -1,3 +1,4 @@
+using System;
 using System.Globalization;
 using UnityEngine;
 using UnityEngine.Events;
@@ -10,10 +11,15 @@ public class TextLabelBehavior : MonoBehaviour
     public UnityEvent startEvent;
     void Start()
     {
-        label = GetComponent<Text>();
+        //label = GetComponent<Text>();
         startEvent.Invoke();
     }
-    
+
+    private void Awake()
+    {
+        label = GetComponent<Text>();
+    }
+
     public void UpdateLabel(FloatData dataObj)
     {
         label.text = dataObj.floatValue.ToString(CultureInfo.InvariantCulture);

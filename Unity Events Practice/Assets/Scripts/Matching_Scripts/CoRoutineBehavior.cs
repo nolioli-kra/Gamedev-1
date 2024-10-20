@@ -7,7 +7,7 @@ public class CoroutineBehavior : MonoBehaviour
 {
     public UnityEvent startEvent, startCountEvent, repeatCountEvent, repeatUntilFalse, endCountEvent;
 
-    public bool canRun;
+    public BoolValue canItRun;
     public IntData counterNum; //number of repetitions
     public float delay = 1f; //delay between fades
     private WaitForSeconds waitObj;
@@ -37,13 +37,12 @@ public class CoroutineBehavior : MonoBehaviour
 
     public void StartRepeatUntilFalse()
     {
-        canRun = true;
         StartCoroutine(RepeatUntilFalse());
     }
     
     private IEnumerator RepeatUntilFalse()
     {
-        while (canRun)
+        while (canItRun.boolValue)
         {
             yield return waitObj;
             repeatUntilFalse.Invoke();

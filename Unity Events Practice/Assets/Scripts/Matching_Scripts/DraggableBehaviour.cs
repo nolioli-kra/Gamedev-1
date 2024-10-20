@@ -11,6 +11,12 @@ public class DraggableBehaviour : MonoBehaviour
     public bool draggable;
     public Vector2 position;
 
+    public void GetCamera()
+    {
+        cameraObject = Camera.main;
+        Debug.Log("Camera found");
+    }
+    
     public IEnumerator OnMouseDown()
     {
         draggable = true;

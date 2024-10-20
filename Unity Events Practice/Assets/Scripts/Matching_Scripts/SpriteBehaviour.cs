@@ -1,5 +1,6 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.Events;
 
 [RequireComponent(typeof(MeshRenderer))]
 public class SpriteBehaviour : MonoBehaviour
@@ -7,12 +8,17 @@ public class SpriteBehaviour : MonoBehaviour
     private MeshRenderer objRenderer;
     public Material objMaterial;
     public float delay = 0;
+    public ColorID currentColorID;
+
+    public UnityEvent<ColorID> onColorIDChanged;
+
+    public MatchBehaviour matchBehaviour;
 
     private void Start()
     {
         objRenderer = GetComponent<MeshRenderer>();
         objMaterial = objRenderer.material;
-        Debug.Log("material acquired:" + objMaterial);
+        //Debug.Log("material acquired:" + objMaterial);
     }
 
     //method to start delayed change
@@ -20,35 +26,24 @@ public class SpriteBehaviour : MonoBehaviour
     {
         StartCoroutine(DelayedChange(colorIDList));
     }
+    
+    
 
     //coruotine to delay based on time variable
     private IEnumerator DelayedChange(ColorIDDataList colorIDList)
     {
         yield return new WaitForSeconds(delay);
         ChangeRendererColorFromList(colorIDList);
-    }
 
-    /*
-    public void ChangeRendererColor(ColorID colorID)
-    {
-        if (colorID != null)
+        if (matchBehaviour != null)
         {
-            Debug.Log("applying color:" + colorID.value);
-            objMaterial.color = colorID.value;
-            Debug.Log("color applied");
+            matchBehaviour.idObject = currentColorID;
         }
     }
     
-    
-    public void ChangeRendererColorFromList(ColorIDDataList colorIDList)
-    {
-        objMaterial.color = colorIDList.currentColor.value;
-        Debug.Log("Color applied successfully");
-    }
-    */
-
     private void ChangeRendererColorFromList(ColorIDDataList colorIDList)
     {
+        
         if (colorIDList == null)
         {
             Debug.LogError("ColorIDDataList is null!");
@@ -60,10 +55,11 @@ public class SpriteBehaviour : MonoBehaviour
             Debug.LogError("ColorIDDataList's currentColor is null!");
             return;
         }
-
-        // If both checks pass, apply the color
-        Debug.Log("Applying color: " + colorIDList.currentColor.value);
+        
         objMaterial.color = colorIDList.currentColor.value;
-        Debug.Log("Color applied successfully");
+        currentColorID = (ColorID)colorIDList.currentColor;
+        //Debug.Log("assigned currentcolorID: " + currentColorID);
+        //onColorIDChanged.Invoke(currentColorID);
     }
+    
 }
