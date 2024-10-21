@@ -4,7 +4,7 @@ using UnityEngine.Events;
 
 public class DraggableBehaviour : MonoBehaviour
 {
-    public UnityEvent OnDragged, endDragged;
+    public UnityEvent OnDragged, endDragged, outOfBounds;
     
     public Camera cameraObject;
 
@@ -35,7 +35,21 @@ public class DraggableBehaviour : MonoBehaviour
     private void OnMouseUp()
     {
         draggable = false;
+        if (!IsObjectInView(gameObject))
+        {
+            outOfBounds.Invoke();
+        }
         endDragged.Invoke();
+        
         //Debug.Log("Drag stop attempt");
+    }
+
+    bool IsObjectInView(GameObject obj)
+    {
+        Vector3 objPosition = obj.transform.position;
+        Vector3 screenPoint = cameraObject.WorldToViewportPoint(objPosition);
+
+        // Check if the object is within the camera's view
+        return screenPoint.x >= 0 && screenPoint.x <= 1 && screenPoint.y >= 0 && screenPoint.y <= 1 && screenPoint.z >= 0;
     }
 }

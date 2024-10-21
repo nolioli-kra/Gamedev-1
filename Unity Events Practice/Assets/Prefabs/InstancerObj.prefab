@@ -48,12 +48,36 @@ MonoBehaviour:
   startEvent:
     m_PersistentCalls:
       m_Calls:
+      - m_Target: {fileID: 11400000, guid: 6112ec9adf98dab40841960acc0d1fb2, type: 2}
+        m_TargetAssemblyTypeName: BoolValue, Assembly-CSharp
+        m_MethodName: setBoolValue
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 11400000, guid: fc00b1d8e3487d84882382a8b501f85f, type: 2}
+        m_TargetAssemblyTypeName: Instancer, Assembly-CSharp
+        m_MethodName: CreateInstance
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 11400000, guid: 7f8b25fd1efeace4991b24ad22f27138, type: 2}
+          m_ObjectArgumentAssemblyTypeName: Vector3Data, Assembly-CSharp
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
       - m_Target: {fileID: 4355032211618546427}
         m_TargetAssemblyTypeName: CoroutineBehavior, Assembly-CSharp
         m_MethodName: StartRepeatUntilFalse
         m_Mode: 1
         m_Arguments:
-          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgument: {fileID: 11400000, guid: 7f8b25fd1efeace4991b24ad22f27138, type: 2}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
@@ -84,9 +108,9 @@ MonoBehaviour:
   endCountEvent:
     m_PersistentCalls:
       m_Calls: []
-  canRun: 0
+  canItRun: {fileID: 11400000, guid: 6112ec9adf98dab40841960acc0d1fb2, type: 2}
   counterNum: {fileID: 0}
-  delay: 1
+  delay: 0.7
 --- !u!23 &116038841439125995
 MeshRenderer:
   m_ObjectHideFlags: 0

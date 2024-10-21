@@ -383,6 +383,8 @@
 "Assets/Scripts/Matching_Scripts/Vector3Data.cs"
 "Assets/Scripts/Matching_Scripts/Vector3DataList.cs"
 "Assets/Scripts/SizeButton.cs"
+"Assets/Unity Actions/GameAction.cs"
+"Assets/Unity Actions/GameActionHandler.cs"
 -langversion:9.0
 /deterministic
 /optimize+
