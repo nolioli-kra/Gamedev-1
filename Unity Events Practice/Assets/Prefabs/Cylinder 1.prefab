@@ -16,12 +16,14 @@ GameObject:
   - component: {fileID: -6659990980505770964}
   - component: {fileID: 3520560094341404580}
   - component: {fileID: -123105567079186122}
+  - component: {fileID: -4522281356934615825}
+  - component: {fileID: -5013090359476722793}
   - component: {fileID: 3700691295192607602}
   - component: {fileID: -8396918788540901375}
   - component: {fileID: -522554760957983794}
   m_Layer: 0
   m_Name: Cylinder 1
-  m_TagString: Untagged
+  m_TagString: Cylinders
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -296,6 +298,48 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   seconds: 3.5
+--- !u!114 &-4522281356934615825
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1764853791909734737}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9a51c4f5a426b24f8190f8d6714a0c7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  seconds: 0.75
+  checkInterval: 0.5
+--- !u!114 &-5013090359476722793
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1764853791909734737}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4aa37c238497f15438c14b3fe87e917c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameActionObject: {fileID: 11400000, guid: b60688a3322bef7419c093c17d4786d8, type: 2}
+  onRaiseEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: -4522281356934615825}
+        m_TargetAssemblyTypeName: DestroyBehavior, Assembly-CSharp
+        m_MethodName: DestroyTagRepeating
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!82 &3700691295192607602
 AudioSource:
   m_ObjectHideFlags: 0
