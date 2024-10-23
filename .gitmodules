@@ -1,3 +1,6 @@
 [submodule "tools"]
 	path = tools
 	url = https://github.com/nolioli-kra/tools
+[submodule "ArtisanDream.Tools.Fork"]
+	path = ArtisanDream.Tools.Fork
+	url = https://github.com/nolioli-kra/ArtisanDream.Tools.Fork
