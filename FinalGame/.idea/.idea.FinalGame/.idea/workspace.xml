@@ -5,48 +5,72 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e33000bd-4423-4803-89d4-f4534ecfba78" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FinalGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FinalGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/CharStats.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/CharStats.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/0a/0aae10ac002bd5fabd6282686f245ba9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/0c/0cf63e105d41964f3bab8299cf069aca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/12/125109b7e4873c6ca11f2f3d729c5757" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/17/17b2fd4fb9e763231fa181d90b4ecabf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/1f/1fca524daeccab44e9b563b802b3eb4f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/20/203884b81dbc897f5474d0cbc7402fb7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/20/205ffb6bb7144194bc789c7a66024c0c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/28/28002d25b0258626faa63ec86c96c5f9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/30/3057f8739d5a267e7a8b8c46640cb69d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/33/33695626f3c0ba22f197da75100617a2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/3d/3d272b25a02f9739a9e4f1b80a06cce3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/45/45d9c97c17a63b3bcce7644a992b42e6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/4d/4d1311ebd3d243f4f5f5bdd092f5dd6f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/4e/4e7912fd42f857f1e5af9ada9579d6d7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/53/53c2d5549ea7bf06c04bb36d49dca04e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/5a/5a032da2d69c3b2ba23774d5346b4ecb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/64/6422d6e1fb42ddd2f45ea78123fcb831" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/84/84ec30daafcb0f9f856ea803cb98d043" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/89/89e80e2f680e1506b9f20ab38d4ba01d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/98/989f3f98d28bd39dc4055472e1bbf67d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a4/a4a9e4a1a37f7df015573a3b5bccb0c4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ad/ad87a1d492c84b65a8eb2c0f603c2b89" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c1/c1b05e74d5443ff2b48e71c192fad955" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c8/c8fab7fe6f9cc17264b3e75e8b4e5b91" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ca/caa61a64bbbdcb1f14337270a76561f8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/cb/cbade911c03f519c47e67c4d202dd628" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/cf/cf8689dad7d2b09022197964b7376e4f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d1/d191cb04545381e1ddbe7adc8637b35d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d1/d1af7a014a3afd4c9b58941b01f8066a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d4/d47d9ad74ca13cb070b39ca5d9e135b2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ef/eff7a41de7f30780bdf6f91c75714bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/04/04b16fe5a46be3182e89792fc8072772" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/12/12135a76126917147d720a4bcd9a8a56" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/1c/1ce156a7e69f6b6b2d97ec9ad8303e15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/22/223f36dcf56e281fadf2ac6491193c09" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/23/23ebd8c05b90464989c50514c174844f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/30/304101196d08b8429fb4359ff6a96095" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/32/3221436e4fa2dd78d0bc8686a8ed2cbf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/37/375b29f1460026c5014366296fb2d6dc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/3a/3a331a81ec277f96bc1b31760f3d52ab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/3b/3b0853318dd68d35110b73a22a1c9e55" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/3b/3b7873474b0da9a586f287810ecceabb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/3e/3e38d55d8899cbd7b1141e2f2915a75a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/45/45d068160160193164ddb021440f7f4f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/48/482b6c3d76c258896848f96fb7c98ca0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/49/497c667a2e345a94514ca7fea341fcaa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/4c/4cc0ea1e644c9dda14725c6a3b425f3c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/4f/4fef31176c887b8bae7051474ea7c6d1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/5c/5c00de89bf449d5036ac8148d84ded83" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/5c/5c00f7ce5b1ae6206a4bb46cab1d36c9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/67/67f816610ad01ac0917e4973cccc39cf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/6b/6b8c4c680bd51f42114fac04c372ac03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/6d/6d8d23f65d2c63ff7d94f3d55d8eeb8b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/6f/6f9ea71b841bef10735141ce0c2c42d0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/72/72f5c3f4742f69ae8c2d2961eb79b50d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/79/7910659311723e7fdeb107c9178826c7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/79/7915a91b00be978c4299702e2968c7dd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/87/8753ff3a4d113ccca5e3c87e88733457" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/92/922cb9eddbd676e03dd851b6bd62e4d5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/9b/9bd6e435b339376ba91e4f97e31ce4d7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/9e/9ec7825a282db6482cb11b203aec6f4e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a5/a5bf45460d9b893048f01890ffce03fb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/aa/aa863239ea082e447c97712471f7c3c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ac/ace3328c8f585e304d758fa36f01317f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ae/aec478eb30c8d8f220ef8c8962670ec1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b4/b4f12385c799abf22ac746a1b92f89c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/be/beb8401f739f827eb8e3caf465222107" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c3/c3c23663b953f97da55ab6807d84564c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c6/c66962452f4670ff23b2e790d3b1c911" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/cc/cc52144f12608e94a8ba0b07ce2ca9ae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d5/d533c28960408ecb4ad84a29acbb7a17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d5/d54d96d6c45ecdaf5c8fb18a143aa7d6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d5/d5d958037af335d717be0b1b238c0452" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d9/d93ec87edb5e1ccc77a7608ecff3649d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/dc/dc09bd3a8f29194bcbb6519306679610" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/e3/e353c07ed3c0b2306b983f8dbb911c69" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/e6/e60b9183a1de811f8e9e982ddf3e2ea0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f3/f33174b938fbb53181131aebb2319f4b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f5/f5bafd3ff0b54f7ce296bbf7f25ad301" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/fe/fec4997c0e3979823b4db013c79590da" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aE-inputdata.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aE-inputdata.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag.outputdata" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag.outputdata" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag.payloads" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag.payloads" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag_derived" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag_derived" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag_fsmtime" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/1900b0aE.dag_fsmtime" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/TundraBuildState.state" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/TundraBuildState.state" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/TundraBuildState.state.map" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/TundraBuildState.state.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.ref.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.ref.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Cinemachine.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Cinemachine.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Cinemachine.ref.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Cinemachine.ref.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Cinemachine.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/Cinemachine.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.ref.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.ref.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/artifacts/1900b0aE.dag/com.unity.cinemachine.editor.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/backend1.traceevents" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/backend1.traceevents" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/backend2.traceevents" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/backend2.traceevents" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/buildprogram0.traceevents" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/buildprogram0.traceevents" afterDir="false" />
@@ -54,34 +78,977 @@
       <change beforePath="$PROJECT_DIR$/Library/Bee/tundra.digestcache" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/tundra.digestcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Bee/tundra.log.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Bee/tundra.log.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/.signature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/CHANGELOG.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/Cinemachine2D.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/Cinemachine3rdPersonAim.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/Cinemachine3rdPersonFollow.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineAimComposer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineAimDoNothing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineAimGroupComposer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineAimHardLook.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineAimPOV.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineAimSameAsFollow.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineAlternativeInput.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineBindingModes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineBlendListCamera.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineBlending.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineBody3rdPersonFollow.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineBodyDoNothing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineBodyFramingTransposer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineBodyHardLockTarget.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineBodyOrbitalTransposer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineBodyTrackedDolly.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineBodyTransposer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineBrainProperties.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineClearShot.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineCollider.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineColliderConfiner.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineCollisionImpulseSource.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineConfiner.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineConfiner2D.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineDolly.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineDollyCart.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineExternalCamera.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineFollowZoom.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineFreeLook.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineImpulse.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineImpulseFiltering.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineImpulseListener.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineImpulseSource.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineImpulseSourceOverview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineManagerCameras.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineMixingCamera.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineMultipleCameras.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineNoiseProfiles.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachinePath.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachinePixelPerfect.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachinePostProcessing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineRecomposer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineSavingDuringPlay.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineSetUpVCam.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineSmoothPath.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineStateDrivenCamera.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineStoryboard.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineTargetGroup.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineTimeline.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineTopDown.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineUsing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineVirtualCamera.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineVirtualCameraAim.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineVirtualCameraBody.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineVirtualCameraExtensions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineVirtualCameraNoise.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/CinemachineVolumeSettings.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/TableOfContents.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/cinemachine.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/cinemachineAPI.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/handles.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/2Dpixelperfect_ex.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/3rdPersonFollow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CMShoulderOffsetexample.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CMVerticalDistanceexample.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CineMachineStoryboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineAim.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineAimingRigHighlight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineAssetStore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineBasicMultiChannelPerlin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineBody.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineBrain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineConfiner2D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineConfiner2Db.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineConfiner2Dc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineCustomBlends.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineFreeLookProperties.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineFreelook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineGameWindowGuides.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineInputProvider.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineIntroImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineMenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineMixingCamera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineMixingCameraChildren.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineNewVCam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineNoiseProfile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineNoiseProfileb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineOrbitalTransposer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachinePackage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachinePathInspector.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachinePathScene.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineRig.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineRigGameViewExample.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineRigSceneView.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineSceneHierarchy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineSplash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineStateDrivenCamera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineStateDrivenChildren.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineTargetGroup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineTimelineShotClips.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/CinemachineVCamProperties.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/DissipationRate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/FOV.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/FixedSignalEditor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/GenerateImpulse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/ImpulseCollision.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/ImpulseGraphEditor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/ImpulseHammerStrike.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/ImpulseListener.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/ImpulseOverview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/ImpulsePicture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/ImpulseShape.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/ImpulseShapeCustom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/ImpulseSpatialRange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/ImpulseType.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/InspectorCollisionImpulseSource.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/InspectorFixedSignalTiles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/InspectorImpulseChannelsScript.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/InspectorImpulseCollisionSourceChannel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/InspectorImpulseListener.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/InspectorImpulseListenerChannelsMenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/InspectorImpulseSource.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/InspectorImpulseSourceChannel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/InspectorImpulseSourceChannelsMenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/InspectorImpulseSourceHowToGenerate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/InspectorImpulseSourcePresetsGear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/InspectorImpulseSourceRawSignalMenu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/InspectorImpulseSourceSignal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/InspectorImpulseSourceSpatialRange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/InspectorImpulseSourceTimeEnvelope.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/InspectorImpulseSourceTriggerObject.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/InspectorImpulseTimeEnvelope.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/InspectorNoiseProfile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/TriggerObjectFilter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/clip-plane.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/cm-binding-mode-lock-target-no-roll-pitch45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/cm-binding-mode-lock-target-no-roll-roll45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/cm-binding-mode-lock-target-no-roll-start.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/cm-binding-mode-lock-target-no-roll-yaw45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/cm-binding-mode-lock-target-on-assign-pitch45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/cm-binding-mode-lock-target-on-assign-roll45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/cm-binding-mode-lock-target-on-assign-start.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/cm-binding-mode-lock-target-on-assign-yaw45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/cm-binding-mode-lock-target-pitch45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/cm-binding-mode-lock-target-roll45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/cm-binding-mode-lock-target-start.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/cm-binding-mode-lock-target-world-up-pitch45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/cm-binding-mode-lock-target-world-up-roll45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/cm-binding-mode-lock-target-world-up-start.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/cm-binding-mode-lock-target-world-up-yaw45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/cm-binding-mode-lock-target-yaw45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/cm-binding-mode-simple-follow-world-up-pitch45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/cm-binding-mode-simple-follow-world-up-roll45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/cm-binding-mode-simple-follow-world-up-start.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/cm-binding-mode-simple-follow-world-up-yaw45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/cm-binding-mode-world-space-pitch45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/cm-binding-mode-world-space-roll45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/cm-binding-mode-world-space-start.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/cm-binding-mode-world-space-yaw45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/follow-offset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/handle-toolbar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/overlays-menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/scene-view.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/images/tracked-object-offset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Documentation~/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/CMWaveform.compute" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/CMWaveform.compute.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/CMWaveform.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/CMWaveform.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Cinemachine_header.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Cinemachine_header.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Dark-Selected.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Dark-Selected/FOV.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Dark-Selected/FOV.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Dark-Selected/FarNearClip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Dark-Selected/FarNearClip.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Dark-Selected/FollowOffset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Dark-Selected/FollowOffset.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Dark-Selected/TrackedObjectOffset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Dark-Selected/TrackedObjectOffset.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Dark.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Dark/FOV.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Dark/FOV.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Dark/FarNearClip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Dark/FarNearClip.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Dark/FollowOffset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Dark/FollowOffset.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Dark/TrackedObjectOffset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Dark/TrackedObjectOffset.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/FreelookRigBottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/FreelookRigBottom.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/FreelookRigMiddle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/FreelookRigMiddle.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/FreelookRigTop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/FreelookRigTop.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Light-Selected.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Light-Selected/FOV.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Light-Selected/FOV.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Light-Selected/FarNearClip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Light-Selected/FarNearClip.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Light-Selected/FollowOffset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Light-Selected/FollowOffset.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Light-Selected/TrackedObjectOffset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Light-Selected/TrackedObjectOffset.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Light.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Light/FOV.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Light/FOV.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Light/FarNearClip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Light/FarNearClip.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Light/FollowOffset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Light/FollowOffset.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Light/TrackedObjectOffset.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/Handles/Light/TrackedObjectOffset.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/PostProcessLayer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/PostProcessLayer.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/SceneToolsLabelBackground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/SceneToolsLabelBackground.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/StdLib.hlsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/StdLib.hlsl.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/cm_logo_sm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/EditorResources/cm_logo_sm.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/Cinemachine3rdPersonFollowEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/Cinemachine3rdPersonFollowEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineBasicMultiChannelPerlinEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineBasicMultiChannelPerlinEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineBlendListCameraEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineBlendListCameraEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineBlenderSettingsEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineBlenderSettingsEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineBrainEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineBrainEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineClearShotEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineClearShotEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineColliderEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineColliderEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineComposerEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineComposerEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineConfiner2DEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineConfiner2DEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineConfinerEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineConfinerEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineExternalCameraEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineExternalCameraEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineFramingTransposerEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineFramingTransposerEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineFreeLookEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineFreeLookEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineGroupComposerEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineGroupComposerEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineHardLockToTargetEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineHardLockToTargetEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineHardLookAtEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineHardLookAtEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineMixingCameraEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineMixingCameraEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineNoiseSettingsEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineNoiseSettingsEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineOrbitalTransposerEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineOrbitalTransposerEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachinePOVEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachinePOVEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachinePathEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachinePathEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineSameAsFollowTargetEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineSameAsFollowTargetEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineScreenComposerGuides.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineScreenComposerGuides.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineSmoothPathEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineSmoothPathEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineStateDrivenCameraEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineStateDrivenCameraEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineStoryboardEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineStoryboardEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineTargetGroupEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineTargetGroupEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineTrackedDollyEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineTrackedDollyEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineTransposerEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineTransposerEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineVirtualCameraEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Editors/CinemachineVirtualCameraEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Experimental.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Experimental/CinemachineNewFreeLookEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Experimental/CinemachineNewFreeLookEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Experimental/CinemachineNewVirtualCameraEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Experimental/CinemachineNewVirtualCameraEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Helpers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Helpers/CinemachineTriggerActionEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Helpers/CinemachineTriggerActionEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Impulse.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Impulse/CinemachineCollisionImpulseSourceEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Impulse/CinemachineCollisionImpulseSourceEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Impulse/CinemachineImpulseChannelPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Impulse/CinemachineImpulseChannelPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Impulse/CinemachineImpulseChannels.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Impulse/CinemachineImpulseChannels.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Impulse/CinemachineImpulseDefinitionPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Impulse/CinemachineImpulseDefinitionPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Impulse/CinemachineImpulseEnvelopePropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Impulse/CinemachineImpulseEnvelopePropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Impulse/CinemachineImpulseListenerEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Impulse/CinemachineImpulseListenerEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Impulse/CinemachineImpulseSourceEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Impulse/CinemachineImpulseSourceEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Menus.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Menus/CinemachineMenu.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Menus/CinemachineMenu.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Overlays.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Overlays/CinemachineToolbarOverlay.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Overlays/CinemachineToolbarOverlay.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/PostProcessing.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/PostProcessing/CinemachinePostProcessingEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/PostProcessing/CinemachinePostProcessingEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/PostProcessing/CinemachineVolumeSettingsEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/PostProcessing/CinemachineVolumeSettingsEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/PropertyDrawers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/PropertyDrawers/AxisStatePropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/PropertyDrawers/AxisStatePropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/PropertyDrawers/CinemachineBlendDefinitionPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/PropertyDrawers/CinemachineBlendDefinitionPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/PropertyDrawers/CinemachineTagFieldPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/PropertyDrawers/CinemachineTagFieldPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/PropertyDrawers/EmbeddedAssetPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/PropertyDrawers/EmbeddedAssetPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/PropertyDrawers/NoiseSettingsPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/PropertyDrawers/NoiseSettingsPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/PropertyDrawers/OrbitalTransposerHeadingPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/PropertyDrawers/OrbitalTransposerHeadingPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/PropertyDrawers/VcamTargetPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/PropertyDrawers/VcamTargetPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Timeline.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Timeline/CinemachineShotClipEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Timeline/CinemachineShotClipEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Timeline/CinemachineShotEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Timeline/CinemachineShotEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Utility.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Utility/BaseEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Utility/BaseEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Utility/CinemachineEditorAnalytics.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Utility/CinemachineEditorAnalytics.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Utility/CinemachineLensPresets.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Utility/CinemachineLensPresets.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Utility/CinemachineSceneTools.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Utility/CinemachineSceneTools.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Utility/EmbeddedAssetHelpers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Utility/EmbeddedAssetHelpers.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Utility/InspectorUtility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Utility/InspectorUtility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Utility/ReflectionHelpers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Utility/ReflectionHelpers.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Utility/SaveDuringPlay.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Utility/SaveDuringPlay.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Utility/ScriptableObjectUtility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Utility/ScriptableObjectUtility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Utility/SerializedPropertyHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Utility/SerializedPropertyHelper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Utility/VcamStageEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Utility/VcamStageEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Windows.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Windows/CinemachineColliderPrefs.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Windows/CinemachineColliderPrefs.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Windows/CinemachineSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Windows/CinemachineSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Windows/WaveformWindow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/Windows/WaveformWindow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/com.unity.cinemachine.Editor.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Editor/com.unity.cinemachine.Editor.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Gizmos.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Gizmos/cm_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Gizmos/cm_logo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/LICENSE.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Presets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Presets/Noise.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Presets/Noise/6D Shake.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Presets/Noise/6D Shake.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Presets/Noise/6D Wobble.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Presets/Noise/6D Wobble.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Presets/Noise/Handheld_normal_extreme.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Presets/Noise/Handheld_normal_extreme.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Presets/Noise/Handheld_normal_mild.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Presets/Noise/Handheld_normal_mild.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Presets/Noise/Handheld_normal_strong.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Presets/Noise/Handheld_normal_strong.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Presets/Noise/Handheld_tele_mild.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Presets/Noise/Handheld_tele_mild.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Presets/Noise/Handheld_tele_strong.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Presets/Noise/Handheld_tele_strong.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Presets/Noise/Handheld_wideangle_mild.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Presets/Noise/Handheld_wideangle_mild.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Presets/Noise/Handheld_wideangle_strong.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Presets/Noise/Handheld_wideangle_strong.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/AssemblyInfo.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/Cinemachine3rdPersonAim.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/Cinemachine3rdPersonAim.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineBlendListCamera.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineBlendListCamera.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineBrain.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineBrain.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineCameraOffset.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineCameraOffset.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineClearShot.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineClearShot.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineCollider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineCollider.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineConfiner.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineConfiner.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineConfiner2D.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineConfiner2D.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineDollyCart.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineDollyCart.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineExternalCamera.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineExternalCamera.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineFollowZoom.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineFollowZoom.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineFreeLook.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineFreeLook.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineMixingCamera.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineMixingCamera.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachinePath.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachinePath.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachinePipeline.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachinePipeline.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachinePixelPerfect.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachinePixelPerfect.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineRecomposer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineRecomposer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineSmoothPath.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineSmoothPath.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineStateDrivenCamera.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineStateDrivenCamera.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineStoryboard.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineStoryboard.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineTargetGroup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineTargetGroup.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineVirtualCamera.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Behaviours/CinemachineVirtualCamera.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Components.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Components/Cinemachine3rdPersonFollow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Components/Cinemachine3rdPersonFollow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Components/CinemachineBasicMultiChannelPerlin.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Components/CinemachineBasicMultiChannelPerlin.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Components/CinemachineComposer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Components/CinemachineComposer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Components/CinemachineFramingTransposer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Components/CinemachineFramingTransposer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Components/CinemachineGroupComposer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Components/CinemachineGroupComposer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Components/CinemachineHardLockToTarget.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Components/CinemachineHardLockToTarget.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Components/CinemachineHardLookAt.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Components/CinemachineHardLookAt.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Components/CinemachineOrbitalTransposer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Components/CinemachineOrbitalTransposer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Components/CinemachinePOV.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Components/CinemachinePOV.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Components/CinemachineSameAsFollowTarget.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Components/CinemachineSameAsFollowTarget.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Components/CinemachineTrackedDolly.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Components/CinemachineTrackedDolly.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Components/CinemachineTransposer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Components/CinemachineTransposer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/AxisState.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/AxisState.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/CameraState.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/CameraState.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/CinemachineBlend.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/CinemachineBlend.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/CinemachineBlenderSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/CinemachineBlenderSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/CinemachineComponentBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/CinemachineComponentBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/CinemachineCore.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/CinemachineCore.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/CinemachineDebug.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/CinemachineDebug.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/CinemachineExtension.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/CinemachineExtension.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/CinemachineInputAxisDriver.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/CinemachineInputAxisDriver.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/CinemachinePathBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/CinemachinePathBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/CinemachinePropertyAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/CinemachinePropertyAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/CinemachineVirtualCameraBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/CinemachineVirtualCameraBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/ConfinerOven.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/ConfinerOven.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/GaussianFilter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/GaussianFilter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/ICinemachineCamera.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/ICinemachineCamera.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/ICinemachineComponent.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/ICinemachineComponent.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/LensSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/LensSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/NoiseSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/NoiseSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/Predictor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/Predictor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/RuntimeUtility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/RuntimeUtility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/SignalSourceAsset.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/SignalSourceAsset.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/SplineHelpers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/SplineHelpers.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/TargetPositionCache.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/TargetPositionCache.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/UnityVectorExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/UnityVectorExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/UpdateTracker.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Core/UpdateTracker.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Experimental.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Experimental/CinemachineNewFreeLook.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Experimental/CinemachineNewFreeLook.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Experimental/CinemachineNewVirtualCamera.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Experimental/CinemachineNewVirtualCamera.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Helpers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Helpers/CinemachineInputProvider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Helpers/CinemachineInputProvider.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Helpers/CinemachineTouchInputMapper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Helpers/CinemachineTouchInputMapper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Helpers/CinemachineTriggerAction.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Helpers/CinemachineTriggerAction.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Helpers/GroupWeightManipulator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Helpers/GroupWeightManipulator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Impulse.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Impulse/CinemachineCollisionImpulseSource.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Impulse/CinemachineCollisionImpulseSource.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Impulse/CinemachineFixedSignal.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Impulse/CinemachineFixedSignal.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Impulse/CinemachineImpulseDefinition.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Impulse/CinemachineImpulseDefinition.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Impulse/CinemachineImpulseListener.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Impulse/CinemachineImpulseListener.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Impulse/CinemachineImpulseManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Impulse/CinemachineImpulseManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Impulse/CinemachineImpulseSource.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Impulse/CinemachineImpulseSource.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Impulse/CinemachineIndependentImpulseListener.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Impulse/CinemachineIndependentImpulseListener.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/PostProcessing.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/PostProcessing/CinemachinePostProcessing.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/PostProcessing/CinemachinePostProcessing.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/PostProcessing/CinemachineVolumeSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/PostProcessing/CinemachineVolumeSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/ThirdParty.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/ThirdParty/clipper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/ThirdParty/clipper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Timeline.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Timeline/CinemachineMixer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Timeline/CinemachineMixer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Timeline/CinemachineShot.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Timeline/CinemachineShot.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Timeline/CinemachineShotPlayable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Timeline/CinemachineShotPlayable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Timeline/CinemachineTrack.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/Timeline/CinemachineTrack.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/com.unity.cinemachine.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Runtime/com.unity.cinemachine.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/.sample.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/2D.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/2D/2D Fighters.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/2D/2D Fighters.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/2D/2D Zoom.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/2D/2D Zoom.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/2D/2DConfinedTargetGroup.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/2D/2DConfinedTargetGroup.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/2D/2DConfiner.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/2D/2DConfiner.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/2D/2DConfinerComplex.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/2D/2DConfinerComplex.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/2D/2DTargetGroup.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/2D/2DTargetGroup.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/2D/LoseSightWhenTargetsFallsOffThePlatform.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/2D/LoseSightWhenTargetsFallsOffThePlatform.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/2D/MouseScrollZoom2D.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/2D/MouseScrollZoom2D.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/3rdPersonWithAimMode.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/3rdPersonWithAimMode/3rdPersonWithAimMode.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/3rdPersonWithAimMode/3rdPersonWithAimMode.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/3rdPersonWithAimMode/ActivateOnKeypress.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/3rdPersonWithAimMode/ActivateOnKeypress.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/AimingRig.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/AimingRig/AimReticle.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/AimingRig/AimReticle.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/AimingRig/AimingRig.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/AimingRig/AimingRig.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/AimingRig/AimingRig.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/AimingRig/AimingRig.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Anywhere Door.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Anywhere Door.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/CAM1.renderTexture" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/CAM1.renderTexture.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/CAM2.renderTexture" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/CAM2.renderTexture.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Lightmap-0_comp_dir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Lightmap-0_comp_dir.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Lightmap-0_comp_light.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Lightmap-0_comp_light.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Materials/CAM1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Materials/CAM1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Materials/CAM2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Materials/CAM2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Materials/Green.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Materials/Green.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Materials/Pink.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/Materials/Pink.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/PlayerLookAt.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/PlayerLookAt.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/PlayerMovement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/PlayerMovement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/ReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/ReflectionProbe-0.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/ScreenCutoutShader.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/ScreenCutoutShader.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/TagChanger.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/TagChanger.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/BlendListCamera.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/BlendListCamera.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/BossCamera.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/BossCamera/BossCam.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/BossCamera/BossCam.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/BossCamera/BossLookAt.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/BossCamera/BossLookAt.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/BossCamera/CustomLockCameraY.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/BossCamera/CustomLockCameraY.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/CameraMagnets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/CameraMagnets/CameraMagnetProperty.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/CameraMagnets/CameraMagnetProperty.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/CameraMagnets/CameraMagnetTargetController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/CameraMagnets/CameraMagnetTargetController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/CameraMagnets/CameraMagnets.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/CameraMagnets/CameraMagnets.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/CameraMagnets/Proximity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/CameraMagnets/Proximity.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/ClearShot.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/ClearShot/CM ClearShot1 Blends.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/ClearShot/CM ClearShot1 Blends.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/ClearShot/ClearShot character.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/ClearShot/ClearShot character.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/ClearShot/ClearShot closest.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/ClearShot/ClearShot closest.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/ClearShot/ClearShot.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/ClearShot/ClearShot.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/ClearShot/TIMELINE world animsTimeline.playable" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/ClearShot/TIMELINE world animsTimeline.playable.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Composer Look Ahead.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Composer Look Ahead.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Composer.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Composer.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Custom Blends.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Custom Blends/BlenderSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Custom Blends/BlenderSettings.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Custom Blends/Custom Blends.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Custom Blends/Custom Blends.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Custom Blends/Noise_CM_4.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Custom Blends/Noise_CM_4.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/DualTarget.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/DualTarget/DualTarget.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/DualTarget/DualTarget.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/DualTarget/MoveAimTarget.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/DualTarget/MoveAimTarget.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/DualTarget/PointAtAimTarget.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/DualTarget/PointAtAimTarget.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/FadeOutNearbyObjects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/FadeOutNearbyObjects/CinemachineFadeOutNearbyObjects.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/FadeOutNearbyObjects/CinemachineFadeOutNearbyObjects.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/FadeOutNearbyObjects/FadeOut.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/FadeOutNearbyObjects/FadeOut.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/FadeOutNearbyObjects/FadeOut.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/FadeOutNearbyObjects/FadeOut.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/FadeOutNearbyObjects/FadeOutNearbyObjects.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/FadeOutNearbyObjects/FadeOutNearbyObjects.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/FollowCam Simple Follow.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/FollowCam Simple Follow.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/FollowCam.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/FollowCam.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/FollowZoom.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/FollowZoom.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Free Look character.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Free Look character.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Free Look collider.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Free Look collider.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Impulse.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Impulse/Impulse.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Impulse/Impulse.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Impulse/ImpulseWave.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Impulse/ImpulseWave.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Impulse/ShakingCube.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Impulse/ShakingCube.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Impulse/Y Bump Signal Definition.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Impulse/Y Bump Signal Definition.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/MixingCamera.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/MixingCamera.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Noise.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Noise.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Scripting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Scripting/Scripting.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Scripting/Scripting.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Scripting/ScriptingExample.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Scripting/ScriptingExample.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/SphericalSurfaceFollow.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/SphericalSurfaceFollow.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/StateDrivenCamera.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/StateDrivenCamera.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Timeline.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Timeline/Timeline.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Timeline/Timeline.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Timeline/TimelineTimeline.playable" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Timeline/TimelineTimeline.playable.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Tracked Dolly.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Tracked Dolly/CM vcam1Timeline.playable" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Tracked Dolly/CM vcam1Timeline.playable.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Tracked Dolly/Dolly Auto.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Tracked Dolly/Dolly Auto.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Tracked Dolly/Dolly Cart.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Tracked Dolly/Dolly Cart.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Tracked Dolly/Dolly Group.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Tracked Dolly/Dolly Group.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Transposer.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Transposer/Cube.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Transposer/Cube.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Transposer/Transposer.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Transposer/Transposer.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Transposer/cube movement.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Transposer/cube movement.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Trigger volumes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Trigger volumes/GenericTrigger.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Trigger volumes/GenericTrigger.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Trigger volumes/Timeline trigger cube.playable" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Trigger volumes/Timeline trigger cube.playable.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Trigger volumes/Trigger cube.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Trigger volumes/Trigger cube.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Trigger volumes/Trigger volume Timeline.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Trigger volumes/Trigger volume Timeline.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Trigger volumes/Trigger volume.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Scenes/Trigger volumes/Trigger volume.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Animation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Animation/Cube.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Animation/Cube.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Animation/cube A motion.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Animation/cube A motion.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Animation/cube B motion.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Animation/cube B motion.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Blends.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Blends/CM StateDrivenCameraBlends.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Blends/CM StateDrivenCameraBlends.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Materials/Bouncy 1.physicmaterial" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Materials/Bouncy 1.physicmaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Materials/Default_Prototype.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Materials/Default_Prototype.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Materials/Default_Prototype_Blue.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Materials/Default_Prototype_Blue.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Materials/GridBox_Trigger.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Materials/GridBox_Trigger.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Materials/Ground big.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Materials/Ground big.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Materials/Ground.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Materials/Ground.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Materials/RedThing.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Materials/RedThing.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Materials/Trigger.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Materials/Trigger.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Materials/checkerboard.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Materials/checkerboard.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Animations.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Animations/Idle.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Animations/Idle.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Animations/Jog.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Animations/Jog.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Animations/Sprint.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Animations/Sprint.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Animations/Walk.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Animations/Walk.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Controllers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Controllers/CharacterController.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Controllers/CharacterController.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Models/DefaultMale.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Models/DefaultMale.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Models/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Models/Materials/DefaultMale_Mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Models/Materials/DefaultMale_Mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Models/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Models/Textures/DefaultMale_Albedo.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Models/Textures/DefaultMale_Albedo.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Models/Textures/DefaultMale_Normal.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Models/Textures/DefaultMale_Normal.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Models/Textures/DefaultMale_Occlusion.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Models/Textures/DefaultMale_Occlusion.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Models/Textures/DefaultMale_SpecSmooth.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Models/Textures/DefaultMale_SpecSmooth.tif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Prefabs/3rdPersonController.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Prefabs/3rdPersonController.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Scripts/CharacterMovement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Scripts/CharacterMovement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Scripts/CharacterMovement2D.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Scripts/CharacterMovement2D.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Scripts/CharacterMovementNoCamera.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Scripts/CharacterMovementNoCamera.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Corridors_1_2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Corridors_1_2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Environment_2D.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Environment_2D.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Environment_Clear_BluePedestal.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Environment_Clear_BluePedestal.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Environment_Corridor.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Environment_Corridor.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Environment_CorridorMixingCam.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Environment_CorridorMixingCam.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Environment_Narrow_Walls.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Environment_Narrow_Walls.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_10x10.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_10x10.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_10x10_BluePedestal.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_10x10_BluePedestal.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_10x4.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_10x4.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_1Wall_10x10.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_1Wall_10x10.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_2Walls_10x10.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_2Walls_10x10.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_LWall_10x10.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_LWall_10x10.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_UWall_10x10.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Floor_UWall_10x10.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Wall_10x4.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/FBX/ProB_Wall_10x4.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Stage1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Stage1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Stage2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Prefabs/Stage2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Scripts/ActivateCamOnPlay.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Scripts/ActivateCamOnPlay.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Scripts/ActivateCameraWithDistance.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Scripts/ActivateCameraWithDistance.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Scripts/ExampleHelpWindow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Scripts/ExampleHelpWindow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Scripts/InputSystemHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Scripts/InputSystemHelper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Scripts/InvokeEventFromInspector.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Scripts/InvokeEventFromInspector.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Scripts/MixingCameraBlend.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Scripts/MixingCameraBlend.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Scripts/PlayerMove.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Scripts/PlayerMove.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Scripts/PlayerMoveOnSphere.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Scripts/PlayerMoveOnSphere.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Scripts/PlayerMovePhysics.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Scripts/PlayerMovePhysics.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Scripts/SimpleElevator.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Scripts/SimpleElevator.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Scripts/SpawnInCircle.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Scripts/SpawnInCircle.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Scripts/ThirdPersonFollowDistanceModifier.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Scripts/ThirdPersonFollowDistanceModifier.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Textures/GridBox_Default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Textures/GridBox_Default.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Textures/GridBox_Trigger.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Textures/GridBox_Trigger.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Textures/GridBox_Trigger.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Textures/GridBox_Trigger.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Textures/GridBox_blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Textures/GridBox_blue.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Textures/checkerboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Textures/checkerboard.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Textures/crosshair.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Samples~/Cinemachine Example Scenes/Shared/Textures/crosshair.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Editor/AxisStateTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Editor/AxisStateTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Editor/Cinemachine.Editor.Tests.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Editor/Cinemachine.Editor.Tests.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Editor/DampingTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Editor/DampingTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Editor/ScriptableObjectUtilityTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Editor/ScriptableObjectUtilityTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Editor/UnityVectorExtensionTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Editor/UnityVectorExtensionTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Runtime.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Runtime/BrainTargetOverrideTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Runtime/BrainTargetOverrideTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Runtime/CameraPositionTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Runtime/CameraPositionTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Runtime/CamerasBlendingTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Runtime/CamerasBlendingTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Runtime/Cinemachine.Runtime.Tests.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Runtime/Cinemachine.Runtime.Tests.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Runtime/CinemachineFixtureBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Runtime/CinemachineFixtureBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Runtime/ClearShotTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Runtime/ClearShotTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Runtime/CmColliderTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Runtime/CmColliderTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Runtime/Confiner2DUnitTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Runtime/Confiner2DUnitTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Runtime/FreelookForcePositionTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Runtime/FreelookForcePositionTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Runtime/LookaheadTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Runtime/LookaheadTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Runtime/StateDrivenCameraTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Runtime/StateDrivenCameraTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Runtime/TestController.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Tests/Runtime/TestController.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Third Party Notices.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/Third Party Notices.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/ValidationExceptions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/ValidationExceptions.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/license.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.10.2/package.json.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PackageManager/ProjectCache" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageManager/ProjectCache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PackageManager/ProjectCache.md5" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageManager/ProjectCache.md5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptMapper" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptMapper" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Cinemachine.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Cinemachine.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/Search/transactions.db" beforeDir="false" afterPath="$PROJECT_DIR$/Library/Search/transactions.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/com.unity.ide.rider/PersistedState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/com.unity.ide.rider/PersistedState.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/Library/expandedItems" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ilpp.pid" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ilpp.pid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0-prev.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker1-prev.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/AssetImportWorker1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-AssetImportWorker0.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe4.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe5.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe6.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2022.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Search.settings" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Search.settings" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Unity Events Practice/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity Events Practice/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Unity Events Practice/Library/Bee/backend1.traceevents" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity Events Practice/Library/Bee/backend1.traceevents" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Unity Events Practice/Library/Bee/fullprofile.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity Events Practice/Library/Bee/fullprofile.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Unity Events Practice/Library/Bee/tundra.digestcache" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity Events Practice/Library/Bee/tundra.digestcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Unity Events Practice/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity Events Practice/Library/SourceAssetDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Unity Events Practice/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity Events Practice/Library/expandedItems" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Unity Events Practice/Library/ilpp.pid" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity Events Practice/Library/ilpp.pid" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Unity Events Practice/UserSettings/Layouts/default-2022.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity Events Practice/UserSettings/Layouts/default-2022.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +1138,9 @@
       <workItem from="1730253148413" duration="92000" />
       <workItem from="1730253300707" duration="7389000" />
       <workItem from="1730336243883" duration="9724000" />
-      <workItem from="1730863418649" duration="6240000" />
+      <workItem from="1730863418649" duration="6836000" />
+      <workItem from="1730943894738" duration="970000" />
+      <workItem from="1731032993808" duration="165000" />
     </task>
     <servers />
   </component>

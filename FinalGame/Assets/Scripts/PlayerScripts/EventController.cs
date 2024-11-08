@@ -64,4 +64,13 @@ public class EventController : MonoBehaviour
         
         playerGrounded.isOnGround = groundCheck;
     }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Coin"))
+        {
+            Debug.Log("Coin collected");
+            coinCollect.Invoke();
+        }
+    }
 }

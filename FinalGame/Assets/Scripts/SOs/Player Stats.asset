@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 638d9f553f7f1a247805026e4f36e8ce, type: 3}
   m_Name: Player Stats
   m_EditorClassIdentifier: 
-  speed: 6
+  speed: 22
   jumpHeight: 5
   gravity: 5
+  defaultSpeed: 6
