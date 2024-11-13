@@ -8,7 +8,7 @@ using UnityEngine.Events;
 public class EventController : MonoBehaviour
 {
     public UnityEvent<Vector2> onMoveInput; 
-    public UnityEvent onJumpInput, onLanding, whenAirborne, coinCollect, startEvent, endEvent;
+    public UnityEvent onJumpInput, onLanding, whenAirborne, coinCollect, mazeComplete, startEvent, endEvent;
     
     public CharStats playerStats;
     public isGrounded playerGrounded;
@@ -69,8 +69,15 @@ public class EventController : MonoBehaviour
     {
         if (other.CompareTag("Coin"))
         {
-            Debug.Log("Coin collected");
+            //Debug.Log("Coin collected");
             coinCollect.Invoke();
         }
+
+        if (other.CompareTag("End"))
+        {
+            Debug.Log("maze complete");
+            mazeComplete.Invoke();
+        }
     }
+    
 }

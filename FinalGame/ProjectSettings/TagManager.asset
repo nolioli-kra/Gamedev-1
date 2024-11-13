@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Ground
   - Coin
+  - Start
+  - End
+  - DoorZone
   layers:
   - Default
   - TransparentFX
