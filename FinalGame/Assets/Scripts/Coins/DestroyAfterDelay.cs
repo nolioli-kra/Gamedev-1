@@ -6,7 +6,7 @@ public class DestroyAfterDelay : MonoBehaviour
 {
     public float delay = 2f;
 
-    void Start()
+    public void DestroyWithDelay()
     {
         Destroy(gameObject, delay);
     }
