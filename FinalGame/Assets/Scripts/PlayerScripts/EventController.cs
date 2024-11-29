@@ -8,8 +8,9 @@ using UnityEngine.Events;
 public class EventController : MonoBehaviour
 {
     public UnityEvent<Vector2> onMoveInput; 
-    public UnityEvent onJumpInput, onLanding, whenAirborne, coinCollect, mazeComplete, startEvent, endEvent;
+    public UnityEvent onJumpInput, onLanding, whenAirborne, coinCollect, enemyTouch, mazeComplete, startEvent, endEvent;
     
+    public GameObject player;
     public CharStats playerStats;
     public isGrounded playerGrounded;
 
@@ -67,6 +68,11 @@ public class EventController : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+        if (other.CompareTag("NPC"))
+        {
+            enemyTouch.Invoke();
+        }
+        
         if (other.CompareTag("Coin"))
         {
             //Debug.Log("Coin collected");
@@ -78,6 +84,12 @@ public class EventController : MonoBehaviour
             Debug.Log("maze complete");
             mazeComplete.Invoke();
         }
+    }
+
+    public VectorLocation respawnPoint;
+    public void Respawn(Transform player)
+    {
+        player.position = respawnPoint.positions[0];
     }
     
 }
