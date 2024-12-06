@@ -1,9 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class ThirdPersonMovement : MonoBehaviour
 {
+    public UnityEvent moveRight, moveLeft, moveUp, moveDown;
+    
     public CharStats playerStats;
     public CharacterController characterController;
     
@@ -33,18 +36,22 @@ public class ThirdPersonMovement : MonoBehaviour
         if (Input.GetKey(forwardKey))
         {
             moveDirection += transform.forward;
+            moveDown.Invoke();
         }
         if (Input.GetKey(backwardKey))
         {
             moveDirection -= transform.forward;
+            moveUp.Invoke();
         }
         if (Input.GetKey(leftKey))
         {
             moveDirection -= transform.right;
+            moveLeft.Invoke();
         }
         if (Input.GetKey(rightKey))
         {
             moveDirection += transform.right;
+            moveRight.Invoke();
         }
 
         // Normalize movement direction and apply speed
