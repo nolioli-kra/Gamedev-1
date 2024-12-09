@@ -12,7 +12,7 @@ public class CoinSpawner : MonoBehaviour
         SpawnCoins();
     }
 
-    private void SpawnCoins()
+    public void SpawnCoins()
     {
         Quaternion coinRotation = Quaternion.Euler(0, 0, 0);
         

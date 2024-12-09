@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cb20b4cc3b976344880797ac6c794f0, type: 3}
   m_Name: PlayerTime
   m_EditorClassIdentifier: 
-  elapsedTime: 0
+  elapsedTime: 10.767054

@@ -15,6 +15,7 @@ public class TimeManager : MonoBehaviour
     private void Start()
     {
         startEvent.Invoke();
+        timeScore.elapsedTime = 0;
     }
 
     public void StartTimer()

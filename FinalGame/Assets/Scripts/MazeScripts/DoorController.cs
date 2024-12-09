@@ -2,10 +2,12 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.UI;
 
 public class DoorController : MonoBehaviour
 {
+    public UnityEvent DoorOpened;
     public PlayerBool hasKey;
     
     public Text dialogueText;
@@ -16,6 +18,7 @@ public class DoorController : MonoBehaviour
     {
         if (hasKey.playerBool == true)
         {
+            DoorOpened.Invoke();
             doorAnimator.SetTrigger("DoorOpened");
             ShowDialogue("Door unlocked!");
             Debug.Log("Door unlocked!");
